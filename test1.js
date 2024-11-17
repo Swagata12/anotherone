@@ -12,3 +12,5 @@ function findOddnumber(n) {
   return [countOdd, countEven];
 }
 console.log(findOddnumber(num));
+
+// Testing so see
